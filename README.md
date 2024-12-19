@@ -24,17 +24,27 @@
 <br />
 
 ---
-
 ### 📂 Репозитории
 
-- [AbyssumProtocol](https://github.com/n-mukhin/AbyssumProtocol)  
-  Контейнеризация и управление сервисами с помощью Docker и Kubernetes.
-  
-- [Dreadspire](https://github.com/n-mukhin/Dreadspire)  
-  Автоматизация инфраструктуры с использованием Ansible и Terraform.
+#### 🚢 [AbyssumProtocol](https://github.com/n-mukhin/AbyssumProtocol)
+> **Контейнеризация и управление сервисами**  
+> Использование Docker и Kubernetes для создания масштабируемой инфраструктуры.  
 
-- [Stormveil](https://github.com/n-mukhin/Stormveil)  
-  Настройка CI/CD конвейеров в Jenkins и GitLab CI.
+---
 
-- [Obsciscope](https://github.com/n-mukhin/Obsciscope)  
-  Внедрение мониторинга и логирования с Prometheus, Grafana и ELK Stack.
+#### 🔧 [Dreadspire](https://github.com/n-mukhin/Dreadspire)
+> **Автоматизация инфраструктуры**  
+> Скрипты на Ansible и Terraform.  
+
+---
+
+#### 🚀 [Stormveil](https://github.com/n-mukhin/Stormveil)
+> **CI/CD конвейеры**  
+> Настройка автоматических сборок, тестирования и деплоя через Jenkins и GitLab CI.  
+
+---
+
+#### 📊 [Obsciscope](https://github.com/n-mukhin/Obsciscope)
+> **Мониторинг и логирование**  
+> Внедрение Prometheus, Grafana и ELK Stack для быстрого обнаружения и решения инцидентов.  
+
