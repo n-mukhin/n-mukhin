@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/yiffPB7ajncAAAAj/kirby-wave.gif" width="45px">
+<img src="https://media.tenor.com/e3GqicbfhMYAAAAj/get-greeting-get-greetings.gif" width="45px">
 
 **`DevOps-инженер`**
 
