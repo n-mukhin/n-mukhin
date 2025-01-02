@@ -1,8 +1,8 @@
-<img src="https://media.tenor.com/e3GqicbfhMYAAAAj/get-greeting-get-greetings.gif" width="45px">
+<img src="https://media1.tenor.com/m/_lHtlZ9rup0AAAAd/eto-eto-yoshimura.gif" width="75px">
 
 **`DevOps-инженер`**
 
-Привет! Я студент 2-го курса факультета «Программная инженерия» в НИУ ИТМО. 
+Привет! Я студент 2-го курса факультета «Программная инженерия» в ИТМО. 
 
 ---
 
