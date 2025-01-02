@@ -1,4 +1,4 @@
-<img src="https://media1.tenor.com/m/_lHtlZ9rup0AAAAd/eto-eto-yoshimura.gif" width="75px">
+<img src="https://media1.tenor.com/m/_lHtlZ9rup0AAAAd/eto-eto-yoshimura.gif" width="100px">
 
 **`DevOps-инженер`**
 
