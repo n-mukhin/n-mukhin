@@ -1,5 +1,3 @@
-### 📂 Репозитории
-
 #### 🚢 [AbyssumProtocol](https://github.com/n-mukhin/AbyssumProtocol)
 > **Автоматизация инфраструктуры**  
 > Скрипты на Ansible и Terraform.  
